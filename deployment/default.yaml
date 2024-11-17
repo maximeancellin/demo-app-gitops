@@ -2,7 +2,7 @@ name: hello-app
 
 image:
   repository: gcr.io/google-samples/hello-app
-  tag: 1.0
+  tag: "latest"
   pullPolicy: IfNotPresent
 
 replicas: 1
