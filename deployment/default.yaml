@@ -2,7 +2,7 @@ name: hello-app
 
 image:
   repository: gcr.io/google-samples/hello-app
-  tag: "latest"
+  tag: "sample-public-image-d9d5ec862aba"
   pullPolicy: IfNotPresent
 
 replicas: 1
